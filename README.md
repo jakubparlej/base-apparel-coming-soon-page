@@ -1,6 +1,6 @@
 # Base apparel coming soon page
 
-![Design preview](./blogr-preview.png)
+![Design preview](./base-apparel-preview.png)
 
 > Live demo [https://jakubparlej.github.io/blogr-landing-page/](https://jakubparlej.github.io/blogr-landing-page/).
 
